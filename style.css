@@ -1,3 +1,10 @@
+header{
+    padding: 35px;
+}
+body{
+    background-image: url("assets/images/mountain_landscape-t2.jpg");
+}
+
 .first_div
 {
   background-color:#8f84f2;
@@ -42,7 +49,7 @@
 {
   font-size: 46px;
   font-weight: 300;
-  color: #e84c3d;
+  color: #403de8;
   padding-top: 25px;
   -webkit-animation: animwelcome 1.7s 1 ease-in;
   -moz-animation: animwelcome 1.7s 1 ease-in;
@@ -51,9 +58,9 @@
 }
 .txt_user
 {
-  font-size: 22px;
-  font-weight: 100;
-  color: #e84c3d;
+  font-size: 25px;
+  font-weight: 400;
+  color: #63faf2;
   -webkit-animation: animuser 1.9s 1 ease-in;
   -moz-animation: animuser 1.9s 1 ease-in;
   -ms-animation: animuser 1.9s 1 ease-in;
@@ -255,7 +262,7 @@
 }
 .carreaux_presentation_light:hover .deroul_titre
 {
-  background-color:#1e4944; left:0px;
+  background-color:#18a9fd; left:0px;
 }
 .carreaux_presentation_light .deroul_soustitre
 {
@@ -270,5 +277,5 @@
 }
 .carreaux_presentation_light:hover .deroul_soustitre
 {
-  background-color:#417c74;right:0px;
+  background-color:#388cfa;right:0px;
 }
