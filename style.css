@@ -251,7 +251,6 @@ body{
 .carreaux_presentation_light .deroul_titre
 {
   position: absolute;
-  text-transform: uppercase;
   padding: 7px;
   z-index: 1000;
   top:60%;left:-80%;
